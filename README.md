@@ -4,6 +4,8 @@ Predicting whether a customer will default on their credit card payment is a cru
 
 ![ML Banner](https://img.freepik.com/premium-vector/machine-learning-banner-artificial-intelligence-big-data-analysis-technology-business-internet-concept-futuristic-background-illustration_67349-1544.jpg)
 
+![UI Image](https://github.com/vinayakg04/Credit_Card_Default_Prediction/blob/master/docs/snip1.PNG)
+
 ---
 
 ## 🚀 Project Highlights
