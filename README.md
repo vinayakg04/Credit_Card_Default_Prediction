@@ -6,6 +6,7 @@ Predicting whether a customer will default on their credit card payment is a cru
 
 ![UI Image](https://github.com/vinayakg04/Credit_Card_Default_Prediction/blob/master/docs/snip1.PNG)
 
+![UI Next Image](https://github.com/vinayakg04/Credit_Card_Default_Prediction/blob/master/docs/snip2.PNG)
 ---
 
 ## 🚀 Project Highlights
